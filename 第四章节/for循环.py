@@ -24,3 +24,5 @@ print(squares)
 
 lifang = [value**3 for value in range(1,11)]#4-9
 print(lifang)
+
+#fdsf
